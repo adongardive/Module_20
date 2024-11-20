@@ -66,7 +66,7 @@ How can internal credit ratings for counterparties be accurately predicted using
 
 #### **Outline of Project**
 
-*   Link to 20_1_Credit_Risk_Model_v1 Notebook - https://github.com/adongardive/Module_20/blob/b2a1eb036b5375d9f3d2f6eff0a4e6ab178458fa/20_1_Credit_Risk_Model_v1.ipynb
+*   [Link to 20_1_Credit_Risk_Model_v1 Notebook] (https://github.com/adongardive/Module_20/blob/b2a1eb036b5375d9f3d2f6eff0a4e6ab178458fa/20_1_Credit_Risk_Model_v1.ipynb)
     
 
 ##### **Contact and Further Information**
