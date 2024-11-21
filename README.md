@@ -18,7 +18,7 @@ How can internal credit ratings for counterparties be accurately predicted using
 
 #### **Data Sources**
 
-*   **Primary Dataset:** Enriched financial dataset (enriched\_financials\_data.csv), containing financial ratios, external ratings, and exposure metrics for 593 counterparties across multiple quarters.
+*   **Primary Dataset:** Enriched financial dataset (enriched\_financials\_data.csv), containing financial ratios (from disclosed financial statements), external ratings (from ratings agencies like S&P and Moody's), and exposure metrics for 593 counterparties across multiple quarters.
     
 *   **Additional Features:** Internal client specific fields like Current\_Exposure, Long\_Term\_Exposure, and Internal\_Rating.
     
